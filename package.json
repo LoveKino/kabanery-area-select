@@ -1,0 +1,32 @@
+{
+  "name": "kabanery-area-select",
+  "version": "0.0.1",
+  "description": "Pick up an area from panel",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"test/function/**/*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoveKino/kabanery-area-select.git"
+  },
+  "keywords": [
+    "kabanery",
+    "area",
+    "select"
+  ],
+  "author": "ddchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LoveKino/kabanery-area-select/issues"
+  },
+  "homepage": "https://github.com/LoveKino/kabanery-area-select#readme",
+  "dependencies": {
+    "kabanery": "^0.2.4",
+    "kabanery-flow": "0.0.3"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2",
+    "webpack": "^2.6.1"
+  }
+}
